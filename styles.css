@@ -1,0 +1,171 @@
+/******TAG SELECTORS******/
+
+body {
+    margin: 0px;
+}
+
+p {
+    font-family: serif;
+    font-size: 40px;
+}
+
+sup {
+    font-size: 20px;
+}
+
+u {
+    text-underline-offset: 10px;
+    text-shadow: 2px 1px 1px darkred, 10px 10px 12px navy;
+}
+
+strong {
+    text-decoration: wavy underline overline;
+    text-decoration-color: darkblue;
+    text-underline-offset: 10px;
+}
+
+/******CLASS SELECTORS******/
+
+.styling-div {
+    border: solid darkred 10px;
+}
+
+.first-div {
+    background-color: lightblue;
+    border: solid blue 40px;
+}
+
+.gif-div {
+    padding-left: 500px;
+    margin-top: -260px;
+}
+
+.second-div {
+    background-color: lightblue;
+    margin-bottom: -10px;
+}
+
+.Button-Page-Text {
+    font-family: serif;
+    font-size: 27px;
+    margin-top: -50px;
+}
+
+.Button-Instruction-Text {
+    font-family: monospace;
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+.Click-Me-Button {
+    background-color: blue;
+    border-width: medium;
+    color: darkred;
+    cursor: grab;
+    display: inline-block;
+    font-family: serif;
+    font-size: 50px;
+    padding: 12px 32px;
+    text-align: center;
+    width: 500px;
+}
+
+.button-div {
+    background-color: lightblue;
+    border: solid blue 60px;
+    height: 460px;
+    padding-bottom: 100px;
+}
+
+.button-styling-div {
+    background-color: lightblue;
+    border: solid darkred 10px;
+    height: 455px;
+    padding-top: 100px;
+}
+
+.web-corners {
+    height: 10px;
+}
+
+.web-right-corner {
+    padding-left: 430px;
+}
+
+.web-right-bottom-corner {
+    padding-left: 430px;
+}
+
+.Spiderman-Tomatito {
+    border: 10px double darkred;
+    padding: 15pz;
+    border-width: 8px;
+}
+
+.AllyMessage {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 0px;  
+    margin-top: 10px; 
+    text-indent: 5%;
+}
+
+.AllyMessage2 {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    text-indent: 5.5%;
+}
+
+.AllyMessage3 {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    text-indent: 11%;
+}
+
+.AllyMessage4 {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    text-indent: 13.5%;
+}
+
+.AllyMessage5 {
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    text-indent: 10%;
+}
+
+.Audio {
+    margin-left: 40px;
+}
+
+.Date {
+    margin-bottom: -40px;
+    margin-top: 20px;
+    margin-left: 1200px;
+    font-size: 10px;
+}
+
+.First-Message {
+    color: white;
+    font-size: 55px;
+    font-family: fantasy;
+    margin-top: 30px;
+    text-shadow: 2px 1px 1px darkred, 10px 10px 12px navy;
+}
+
+.Bday-Message {
+    color: white;
+    font-size: 45px;
+    font-family: fantasy;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    text-shadow: 2px 1px 1px darkred, 10px 10px 12px navy;
+}
